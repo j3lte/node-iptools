@@ -1,0 +1,30 @@
+{
+  "name": "node-iptools",
+  "description": "IP Conversion tool for Node",
+  "version": "0.1.0",
+  "homepage": "https://github.com/j3lte/node-iptools",
+  "author": "J.W. Lagendijk <j3lte> (https://github.com/j3lte)",
+  "repository": "j3lte/node-iptools",
+  "bugs": {
+    "url": "https://github.com/j3lte/node-iptools/issues"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "pad-left": "^2.0.0"
+  },
+  "devDependencies": {
+    "chalk": "^0.5.1",
+    "glob": "^4.3.5",
+    "should": "^4.6.1"
+  },
+  "keywords": [],
+  "verb": {}
+}
