@@ -14,7 +14,8 @@ $ npm i node-iptools --save
 
 ```js
 var ip = require('node-iptools');
-ip() // 0004
+console.log(ip(1).toIp());          // '0.0.0.1'
+console.log(ip('0.0.0.1').toInt()); // 1
 ```
 
 ## Running tests
