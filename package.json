@@ -14,7 +14,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/mocha/bin/mocha test.js"
   },
   "dependencies": {
     "lodash": "^3.10.1",
@@ -23,6 +23,7 @@
   "devDependencies": {
     "chalk": "^0.5.1",
     "glob": "^4.3.5",
+    "mocha": "^2.2.5",
     "should": "^4.6.1"
   },
   "keywords": [
