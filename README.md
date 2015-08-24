@@ -1,8 +1,8 @@
-# node-iptools [![NPM version](https://badge.fury.io/js/node-iptools.svg)](http://badge.fury.io/js/node-iptools)[![Build Status](https://travis-ci.org/j3lte/node-iptools.svg?branch=master)](https://travis-ci.org/j3lte/node-iptools)
+# node-iptools [![NPM version](https://badge.fury.io/js/node-iptools.svg)](http://badge.fury.io/js/node-iptools) [![Build Status](https://travis-ci.org/j3lte/node-iptools.svg?branch=master)](https://travis-ci.org/j3lte/node-iptools)
 
 > IP conversion tool for nodejs
 
-## Intall
+## Install
 
 Install with [npm](https://www.npmjs.com/)
 
